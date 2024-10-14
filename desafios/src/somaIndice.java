@@ -10,4 +10,5 @@ public class somaIndice {
         }
 
         System.out.println("O valor da soma é: " + SOMA); 
+    }
 }
